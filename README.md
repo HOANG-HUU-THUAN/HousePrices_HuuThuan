@@ -49,4 +49,4 @@ streamlit run demo/app.py
 Truy cập vào đường dẫn hiển thị trên terminal (thường là `http://localhost:8501`) để sử dụng.
 
 ---
-**Tác giả:** Hoàng Hữu Thuận
+**Tác giả:** Hoàng Hữu Thuần
